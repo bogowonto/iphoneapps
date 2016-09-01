@@ -12,3 +12,7 @@ os.chmod("testfolder", 0o755)
 os.rename("testfolder", "updated-testfolder")
 
 print("test print)
+
+print("another changes")
+
+print("new change")
